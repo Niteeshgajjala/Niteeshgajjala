@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niteesh Kumar Reddy Gajjala</h1>
+- 📖I’m currently studying in **SRM UNIVERSITY**
+
 - 🌱 I’m currently learning **data structures**
 
 - 💬 Ask me about **c c++ python**
